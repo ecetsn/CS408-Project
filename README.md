@@ -6,7 +6,7 @@ The server, developed using C# and .NET, listens on a specific port for incoming
 
 The project aims to utilize TCP sockets using C# in order to create a Windows Form Application. The Github profiles for the contributors of this project are listed below:
 
-https://github.com/aygungoktug
+https://github.com/goktug-aygun
 https://github.com/ecetsn
 
 If you'd like to use anything from this project, please contact one of us via email addresses listed below:
