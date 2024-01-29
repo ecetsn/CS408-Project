@@ -1,4 +1,4 @@
-This is a project developed in Fall 2023 semester, for CS408 - Computer Networks course in Sabancı University. 
+## This is a project developed in Fall 2023 semester, for CS408 - Computer Networks course in Sabancı University. 
 
 This project implements a communication application (DiSUcord -Sabancı University version of Discord-) with a server-client architecture.
 
